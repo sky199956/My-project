@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8efa1b1de45d841119cdc544c79389da, type: 3}
+  m_Name: O NA Cube
+  m_EditorClassIdentifier: 
+  idNACube: 15
+  naCubeSprite: {fileID: 21300000, guid: 6c7049175c7ac4c4f8d9d3ac53a4dd1d, type: 3}
